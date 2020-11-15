@@ -7,7 +7,7 @@ Primeiro é necessário criar uma conta no site:
 [Documetação de autenticação](https://coinmarketcap.com/api/documentation/v1/#section/Authentication) <br>
 [Documentação API](https://coinmarketcap.com/api/documentation/v1/#) <br>
 
-Após criar a conta copia a sua Key para utilizá-la no projeto.
+Após criar a conta copiar a sua Key para utilizá-la no projeto.
 
 Para uso da API é necessário instalar uma extensão no Google Chrome:
 
